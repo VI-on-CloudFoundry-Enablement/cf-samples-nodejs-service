@@ -1,6 +1,6 @@
 applications:
 - name: cf-sample-nodejs-service
-  host: d043918-cf-sample-nodejs-service
+  host: d043918trial-cf-sample-nodejs-service
   path: ./
   buildpack: nodejs_buildpack
   memory: 250M
