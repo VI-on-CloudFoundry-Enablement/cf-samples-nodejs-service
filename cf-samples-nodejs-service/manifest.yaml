@@ -16,4 +16,4 @@ applications:
   services:
    - uaa
   hosts:
-   - d059251router
+   - d059251router 
